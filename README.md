@@ -7,7 +7,7 @@
 <h1 align="center">Sankalp Tripathi</h1>
 <p align="center">
   🛡️ <b>Cybersecurity Researcher & Bug Bounty Hunter</b> 🛡️<br/>
-  🎓 B.Tech CSE (Cybersecurity) @ VIT Bhopal University (2024–2028) [cite: 1]<br/>
+   B.Tech CSE (Cybersecurity) @ VIT Bhopal University (2024–2028)<br/>
 </p>
 
 <hr/>
