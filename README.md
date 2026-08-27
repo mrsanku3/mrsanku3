@@ -16,8 +16,7 @@
 
 <img src="https://raw.githubusercontent.com/mrsanku3/mrsanku3/main/ethical-hacking.png" align="right" width="160px" alt="Ethical Hacking Logo" />
 
-[![Dynamic Typing Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2000&color=E6EDF3&multiline=true&width=520&height=120&lines=I+am+Sankalp+Tripathi%2C+a+Cybersecurity+Researcher%2C+Bug+Bounty;Hunter%2C+and+Digital+Forensics+enthusiast.;Focused+on+LLM+Security%2C+Web+App+Penetration+Testing%2C;and+Incident+Response.+I+actively+disclose+vulnerabilities;and+build+tools+to+secure+digital+ecosystems.;%22If+you+give+a+hacker+a+new+toy%2C+the+first+thing+he+does;is+take+it+apart+to+see+how+it+works.%22+--+Jamie+Zawinski)](https://git.io/typing-svg)
-
+[![Dynamic Typing Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=2000&color=3FB950&multiline=true&width=520&height=120&lines=I+am+Sankalp+Tripathi%2C+a+Cybersecurity+Researcher%2C+Bug+Bounty;Hunter%2C+and+Digital+Forensics+enthusiast.;Focused+on+LLM+Security%2C+Web+App+Penetration+Testing%2C;and+Incident+Response.+I+actively+disclose+vulnerabilities;and+build+tools+to+secure+digital+ecosystems.;%22If+you+give+a+hacker+a+new+toy%2C+the+first+thing+he+does;is+take+it+apart+to+see+how+it+works.%22+--+Jamie+Zawinski)](https://git.io/typing-svg)
 <details>
   <summary>👉 <b>More about me & Academic Background</b></summary>
   <br/>
