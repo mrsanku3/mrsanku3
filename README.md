@@ -27,7 +27,7 @@
         <br/>
         <ul>
           <li><b>Degree:</b> B.Tech in Computer Science & Engineering (Cybersecurity) @ VIT Bhopal University (2024–2028)</li>
-          <li><b>Core Focus:</b> Defensive LLM Architecture, Network Forensics, Coordinated Vulnerability Disclosure (CVD)</li>
+          <li><b>Core Focus:</b>  LLM Security Architecture, Network Forensics, Coordinated Vulnerability Disclosure (CVD)</li>
         </ul>
       </details>
     </td>
@@ -48,7 +48,7 @@
       👉 <b>NASA Security Team:</b> Awarded a formal Letter of Recognition (LOR) for Coordinated Vulnerability Disclosure.<br/><br/>
       👉 <b>Vulnerability Disclosures:</b> Disclosed bugs in <b>NASA</b>, <b>WHO</b>, <b>BASF</b>, <b>Thales Group</b>, <b>Lenskart</b>, <b>IIT Madras</b>, <b>Devsly.io</b>, and <b>More...</b>.<br/><br/>
       👉 <b>UP Police Cybercell Intern:</b> Specialized internship with UP Police (Amroha District) in digital forensics & IPDR/CDR log analysis.<br/><br/>
-      👉 <b>CTF Lead Organizer:</b> Spearheaded campus-wide CTF events at VIT Bhopal; authored Web, Crypto, and OSINT challenges.<br/><br/>
+      👉 <b>CTF Lead Organizer:</b> Spearheaded campus-wide CTF event at NULL Community VIT Bhopal Student Chapter;  Crypto challenges.<br/><br/>
       👉 <b>Currently Building:</b> Defensive proxies for Prompt Injection & Model Poisoning vectors.
     </td>
   </tr>
@@ -66,7 +66,6 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/LLM_Security-00f2fe?style=for-the-badge&logo=openai&logoColor=black" alt="LLM Security" />
