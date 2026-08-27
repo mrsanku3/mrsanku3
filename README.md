@@ -26,10 +26,8 @@
     <li><b>Core Focus:</b> Defensive LLM Architecture, Network Forensics, Coordinated Vulnerability Disclosure (CVD)</li>
   </ul>
 </details>
-
 <br clear="right"/>
 <hr/>
-
 <!-- PRESENT STATUS / ACHIEVEMENTS -->
 <h3>Highlights</h3>
 
