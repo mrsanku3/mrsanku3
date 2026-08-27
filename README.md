@@ -1,9 +1,9 @@
-<!-- CENTERED CUSTOM RADAR LOGO BANNER -->
+
 <p align="center">
   <img src="https://github.com/mrsanku3/mrsanku3/blob/main/Mr_Xcenzo_neon_animated.gif" width="300px" alt="Radar Logo" />
 </p>
 
-<!-- CENTERED NAME AND TITLES -->
+
 <h1 align="center">Sankalp Tripathi</h1>
 <p align="center">
   🛡️ <b>Cybersecurity Researcher & Bug Bounty Hunter</b> 🛡️<br/>
@@ -29,7 +29,7 @@
 
 <br clear="right"/>
 <hr/>
-<!-- PRESENT STATUS / ACHIEVEMENTS -->
+
 <h3>Highlights</h3>
 
 <table border="0">
@@ -46,7 +46,7 @@
 
 <hr/>
 
-<!-- KNOWLEDGE & SKILLS -->
+<!-- KNOWLEDGE  SKILLS -->
 <h3>Knowledge & Skills</h3>
 
 <p>
