@@ -17,8 +17,8 @@
         <summary>👉 <b>More about me & Academic Background</b></summary>
         <br/>
         <ul>
-          <li><b>Degree:</b> B.Tech in Computer Science & Engineering (Cybersecurity) @ VIT Bhopal University (2024–2028) | <b>CGPA:</b> 8.74/10</li>
-          <li><b>High School:</b> Class 12th (82.8%) | Class 10th (74.5%)</li>
+          <li><b>Degree:</b> B.Tech in Computer Science & Engineering (Cybersecurity) @ VIT Bhopal University (2024–2028) |
+          <li><b>High School:</b> Class 12th Completed | Class 10th Completed </li>
           <li><b>Core Focus:</b> Defensive LLM Architecture, Network Forensics, Coordinated Vulnerability Disclosure (CVD)</li>
         </ul>
       </details>
@@ -32,7 +32,7 @@
 <hr/>
 
 <!-- PRESENT STATUS / ACHIEVEMENTS -->
-<h3>⚡ Present Status & Highlights</h3>
+<h3> Present Status & Highlights</h3>
 
 <table border="0">
   <tr>
@@ -74,7 +74,7 @@
 <hr/>
 
 <!-- FEATURED PROJECTS -->
-<h3>📌 Featured Security Projects</h3>
+<h3> Featured Security Projects</h3>
 
 <ul>
   <li>
@@ -82,11 +82,7 @@
     <i>Python, LLM Security, API Proxy</i> — Inline proxy intercepting Prompt Injections and Model Poisoning vectors.
   </li>
   <br/>
-  <li>
-    🔍 <b><a href="https://github.com/mrsanku3/Forensic_log_analyzer">Forensic Log Analyzer</a></b><br/>
-    <i>Python, Forensics</i> — Triage tool built for Law Enforcement Agencies to ingest and map TSP IPDR/CDR network logs.
-  </li>
-  <br/>
+
   <li>
     ⚙️ <b><a href="https://github.com/mrsanku3/OSS-Capstone-Audit-Git">OSS Capstone Audit</a></b><br/>
     <i>Shell, Audit</i> — Open source audit and system script automation project.
