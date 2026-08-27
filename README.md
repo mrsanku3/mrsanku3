@@ -40,7 +40,7 @@
 <hr/>
 
 <!-- PRESENT STATUS / ACHIEVEMENTS -->
-<h3>Present Status & Highlights</h3>
+<h3>Highlights</h3>
 
 <table border="0">
   <tr>
