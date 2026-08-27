@@ -1,6 +1,6 @@
 <!-- CENTERED CUSTOM RADAR LOGO BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrsanku3/mrsanku3/main/banner-logo.png" width="300px" alt="Radar Logo" />
+  <img src="https://github.com/mrsanku3/mrsanku3/blob/main/Mr_Xcenzo_neon_animated.gif" width="300px" alt="Radar Logo" />
 </p>
 
 <!-- CENTERED NAME AND TITLES -->
@@ -32,7 +32,7 @@
       </details>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/mrsanku3/mrsanku3/main/biohazard.png" width="160px" alt="Ethical Hacking Biohazard Logo" />
+      <img src="https://github.com/mrsanku3/mrsanku3/blob/main/ethical-hacking.png" width="160px" alt="Ethical Hacking Biohazard Logo" />
     </td>
   </tr>
 </table>
