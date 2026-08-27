@@ -1,30 +1,38 @@
-<!-- TOP BANNER VISUAL -->
+<!-- CENTERED CUSTOM RADAR LOGO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=200&section=header&text=Sankalp%20Tripathi&fontSize=50&fontColor=00f2fe&animation=twinkle" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/mrsanku3/mrsanku3/main/banner-logo.png" width="300px" alt="Radar Logo" />
 </p>
 
-<!-- INTRO SECTION -->
+<!-- CENTERED NAME AND TITLES -->
+<h1 align="center">Sankalp Tripathi</h1>
+<p align="center">
+  🛡️ <b>Cybersecurity Researcher & Bug Bounty Hunter</b> 🛡️<br/>
+  🎓 B.Tech CSE (Cybersecurity) @ VIT Bhopal University (2024–2028) [cite: 1]<br/>
+</p>
+
+<hr/>
+
+<!-- INTRO SECTION WITH RED BIOHAZARD LOGO -->
 <table border="0">
   <tr>
     <td width="70%" valign="top">
       <h2>Hi there 👋</h2>
       <p>
-        I am <b>Sankalp Tripathi</b>, a Cybersecurity Researcher, Bug Bounty Hunter, and Digital Forensics enthusiast. 
+        I am <b>Sankalp Tripathi</b>, a Cybersecurity Researcher, Bug Bounty Hunter, and Digital Forensics enthusiast[cite: 1]. 
         Focused on LLM Security, Web Application Penetration Testing, and Incident Response, I actively disclose vulnerabilities 
-        and build tools to secure digital ecosystems.
+        and build tools to secure digital ecosystems[cite: 1].
       </p>
       <details>
         <summary>👉 <b>More about me & Academic Background</b></summary>
         <br/>
         <ul>
-          <li><b>Degree:</b> B.Tech in Computer Science & Engineering (Cybersecurity) @ VIT Bhopal University (2024–2028) |
-          <li><b>High School:</b> Class 12th Completed | Class 10th Completed </li>
-          <li><b>Core Focus:</b> Defensive LLM Architecture, Network Forensics, Coordinated Vulnerability Disclosure (CVD)</li>
+          <li><b>Degree:</b> B.Tech in Computer Science & Engineering (Cybersecurity) @ VIT Bhopal University (2024–2028) | <b>CGPA:</b> 8.74/10[cite: 1]</li>
+          <li><b>Core Focus:</b> Defensive LLM Architecture, Network Forensics, Coordinated Vulnerability Disclosure (CVD)[cite: 1]</li>
         </ul>
       </details>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="https://img.icons8.com/isometric/150/user-shield.png" width="140px" alt="Cybersecurity Shield"/>
+      <img src="https://raw.githubusercontent.com/mrsanku3/mrsanku3/main/biohazard.png" width="160px" alt="Ethical Hacking Biohazard Logo" />
     </td>
   </tr>
 </table>
@@ -32,19 +40,16 @@
 <hr/>
 
 <!-- PRESENT STATUS / ACHIEVEMENTS -->
-<h3> Present Status & Highlights</h3>
+<h3>Present Status & Highlights</h3>
 
 <table border="0">
   <tr>
-    <td width="75%" valign="top">
-      👉 <b>NASA Security Team:</b> Awarded a formal Letter of Recognition (LOR) for Coordinated Vulnerability Disclosure.<br/><br/>
-      👉 <b>Vulnerability Disclosures:</b> Disclosed bugs in <b>NASA</b>, <b>WHO</b>, <b>BASF</b>, <b>Thales Group</b>, <b>Lenskart</b>, <b>IIT Madras</b>, <b>Devsly.io</b>, and <b>Langfuse</b>.<br/><br/>
-      👉 <b>UP Police Cybercell Intern:</b> Specialized internship with UP Police (Amroha District) in digital forensics & IPDR/CDR log analysis.<br/><br/>
-      👉 <b>CTF Lead Organizer:</b> Spearheaded campus-wide CTF events at VIT Bhopal; authored Web, Crypto, and OSINT challenges.<br/><br/>
-      👉 <b>Currently Building:</b> Defensive proxies for Prompt Injection & Model Poisoning vectors.
-    </td>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://img.icons8.com/isometric/120/anonymous-mask.png" width="110px" alt="Hacker Mask Icon" />
+    <td width="100%" valign="top">
+      👉 <b>NASA Security Team:</b> Awarded a formal Letter of Recognition (LOR) for Coordinated Vulnerability Disclosure[cite: 1].<br/><br/>
+      👉 <b>Vulnerability Disclosures:</b> Disclosed bugs in <b>NASA</b>, <b>WHO</b>, <b>BASF</b>, <b>Thales Group</b>, <b>Lenskart</b>, <b>IIT Madras</b>, <b>Devsly.io</b>, and <b>More...</b>[cite: 1].<br/><br/>
+      👉 <b>UP Police Cybercell Intern:</b> Specialized internship with UP Police (Amroha District) in digital forensics & IPDR/CDR log analysis[cite: 1].<br/><br/>
+      👉 <b>CTF Lead Organizer:</b> Spearheaded campus-wide CTF events at VIT Bhopal; authored Web, Crypto, and OSINT challenges[cite: 1].<br/><br/>
+      👉 <b>Currently Building:</b> Defensive proxies for Prompt Injection & Model Poisoning vectors[cite: 1].
     </td>
   </tr>
 </table>
@@ -52,7 +57,7 @@
 <hr/>
 
 <!-- KNOWLEDGE & SKILLS -->
-<h3>🛠️ Knowledge & Skills</h3>
+<h3>Knowledge & Skills</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -74,18 +79,18 @@
 <hr/>
 
 <!-- FEATURED PROJECTS -->
-<h3> Featured Security Projects</h3>
+<h3>Featured Security Projects</h3>
 
 <ul>
   <li>
-    🛡️ <b><a href="https://github.com/mrsanku3">AI Gateway & LLM Security Proxy</a></b><br/>
-    <i>Python, LLM Security, API Proxy</i> — Inline proxy intercepting Prompt Injections and Model Poisoning vectors.
+     <b><a href="https://github.com/mrsanku3">AI Gateway & LLM Security Proxy</a></b><br/>
+    <i>Python, LLM Security, API Proxy</i> — Inline proxy intercepting Prompt Injections and Model Poisoning vectors[cite: 1].
   </li>
   <br/>
-
+  <br/>
   <li>
-    ⚙️ <b><a href="https://github.com/mrsanku3/OSS-Capstone-Audit-Git">OSS Capstone Audit</a></b><br/>
-    <i>Shell, Audit</i> — Open source audit and system script automation project.
+     <b><a href="https://github.com/mrsanku3/OSS-Capstone-Audit-Git">OSS Capstone Audit</a></b><br/>
+    <i>Shell, Audit</i> — Open source audit and system script automation project[cite: 1].
   </li>
 </ul>
 
