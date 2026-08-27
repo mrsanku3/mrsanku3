@@ -12,27 +12,28 @@
 
 <hr/>
 
-<!-- INTRO SECTION WITH RED BIOHAZARD LOGO -->
+<!-- INTRO SECTION WITH AUTOMATIC TYPING PARAGRAPH -->
 <table border="0">
   <tr>
-    <td width="70%" valign="top">
+    <td width="72%" valign="top">
       <h2>Hi there 👋</h2>
-      <p>
-        I am <b>Sankalp Tripathi</b>, a Cybersecurity Researcher, Bug Bounty Hunter, and Digital Forensics enthusiast. 
-        Focused on LLM Security, Web Application Penetration Testing, and Incident Response, I actively disclose vulnerabilities 
-        and build tools to secure digital ecosystems.
-      </p>
+      
+      <!-- DYNAMIC TYPING SVG PARAGRAPH -->
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=3000&color=E6EDF3&multiline=true&width=550&height=120&lines=I+am+Sankalp+Tripathi%2C+a+Cybersecurity+Researcher%2C+Bug+Bounty;Hunter%2C+and+Digital+Forensics+enthusiast.;Focused+on+LLM+Security%2C+Web+App+Penetration+Testing%2C;and+Incident+Response.+I+actively+disclose+vulnerabilities;and+build+tools+to+secure+digital+ecosystems.;%22If+you+give+a+hacker+a+new+toy%2C+the+first+thing+he+does;is+take+it+apart+to+see+how+it+works.%22+%E2%80%94+Jamie+Zawinski" alt="Dynamic Typing Intro" />
+      </a>
+
       <details>
         <summary>👉 <b>More about me & Academic Background</b></summary>
         <br/>
         <ul>
           <li><b>Degree:</b> B.Tech in Computer Science & Engineering (Cybersecurity) @ VIT Bhopal University (2024–2028)</li>
-          <li><b>Core Focus:</b>  LLM Security Architecture, Network Forensics, Coordinated Vulnerability Disclosure (CVD)</li>
+          <li><b>Core Focus:</b> LLM Security Architecture, Network Forensics, Coordinated Vulnerability Disclosure (CVD)</li>
         </ul>
       </details>
     </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://github.com/mrsanku3/mrsanku3/blob/main/ethical-hacking.png" width="160px" alt="Ethical Hacking Biohazard Logo" />
+    <td width="28%" align="center" valign="middle">
+      <img src="ethical-hacking.png" width="170px" alt="Ethical Hacking Logo" />
     </td>
   </tr>
 </table>
