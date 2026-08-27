@@ -22,7 +22,7 @@
   <summary>👉 <b>More about me & Academic Background</b></summary>
   <br/>
   <ul>
-    <li><b>Degree:</b> B.Tech in Computer Science & Engineering (Cybersecurity) @ VIT Bhopal University (2024–2028)</li>
+    <li><b>Degree:</b> B.Tech in Computer Science & Engineering (Cybersecurity & Digital Forensics) @ VIT Bhopal University (2024–2028)</li>
     <li><b>Core Focus:</b> Defensive LLM Architecture, Network Forensics, Coordinated Vulnerability Disclosure (CVD)</li>
   </ul>
 </details>
